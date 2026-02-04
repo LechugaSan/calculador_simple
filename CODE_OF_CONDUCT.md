@@ -1,36 +1,41 @@
-Código de Conducta de la Comunidad
-Nuestro compromiso
-En el interés de fomentar un ambiente abierto y acogedor, nos comprometemos a hacer de la participación en nuestro proyecto y nuestra comunidad una experiencia libre de acoso para todos.
+Community Code of Conduct
+Our Pledge
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone.
 
-Nuestros estándares
-Ejemplos de comportamiento que contribuye a crear un ambiente positivo:
+Our Standards
+Examples of behavior that contributes to creating a positive environment include:
 
-Uso de lenguaje acogedor e inclusivo.
+Using welcoming and inclusive language.
 
-Respeto a los diferentes puntos de vista y experiencias.
+Being respectful of differing viewpoints and experiences.
 
-Aceptación de críticas constructivas.
+Gracefully accepting constructive criticism.
 
-Enfocarse en lo que es mejor para la comunidad.
+Focusing on what is best for the community.
 
-Responsabilidades de Ejecución
-Los administradores del proyecto son responsables de aclarar los estándares de comportamiento aceptable y se espera que tomen medidas correctivas apropiadas y justas en respuesta a cualquier instancia de comportamiento inaceptable.
+Enforcement Responsibilities
+Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
-Los administradores tienen el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, commits, código, ediciones de wiki, problemas y otras contribuciones que no estén alineadas con este Código de Conducta.
+Scope
+This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community.
 
-Alcance
-Este código de conducta se aplica tanto dentro de los espacios del proyecto como en los espacios públicos cuando un individuo representa al proyecto o a su comunidad.
+Enforcement
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
 
-Directrices de Ejecución (Pautas de Actuación)
-Los administradores del proyecto seguirán estas directrices para determinar las consecuencias de cualquier acción que consideren que infringe este Código de Conducta:
+Enforcement Guidelines
+Project maintainers will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
 
-Corrección: Se realizará mediante una conversación privada con los administradores, proporcionando claridad sobre la naturaleza de la infracción y una explicación de por qué el comportamiento fue inapropiado.
+1. Correction
+Community Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community. Consequence: A private, written warning from project maintainers, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate.
 
-Aviso: Una advertencia formal por escrito que aclara la naturaleza de la infracción y las consecuencias de la repetición del comportamiento.
+2. Warning
+Community Impact: A violation through a single incident or series of actions. Consequence: A warning with consequences for continued behavior.
 
-Suspensión temporal: Una prohibición temporal de cualquier tipo de interacción o comunicación con el proyecto o la comunidad por un período de tiempo determinado.
+3. Temporary Ban
+Community Impact: A serious violation of community standards, including sustained harassment. Consequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time.
 
-Expulsión permanente: Una prohibición permanente de cualquier tipo de interacción pública dentro de la comunidad del proyecto.
+4. Permanent Ban
+Community Impact: Demonstrating a pattern of violation of community standards, including sustained harassment, targeting of an individual, or aggression toward or disparagement of classes of individuals. Consequence: A permanent ban from any sort of public interaction within the community.
 
-Atribución
-Este Código de Conducta está adaptado del Contributor Covenant, versión 1.4, disponible en https://www.contributor-covenant.org/version/1/4/code-of-conduct.html.
+Attribution
+This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html]version
